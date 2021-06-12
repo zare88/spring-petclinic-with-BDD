@@ -16,7 +16,7 @@ import javax.lang.model.util.Elements;
 import java.util.List;
 import java.util.Map;
 
-public class FindOwners {
+public class FindOwnersStepDefinitions {
 
 	private WebDriver driver;
 	private String lastName ;

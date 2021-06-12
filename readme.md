@@ -1,5 +1,15 @@
 # Spring PetClinic Sample Application [![Build Status](https://travis-ci.org/spring-projects/spring-petclinic.png?branch=main)](https://travis-ci.org/spring-projects/spring-petclinic/)
 
+##BDD, Acceptance tests with Cucumber
+To run test scenarios implemented with Cucumber
+```
+mvn -Dtest=CucumberTests test
+```
+These tests are using selenium, and they are as a part of YouTube videos (in Persian lang):
+
+1) https://youtu.be/4RAjKNvnx9k (introduction)
+2) https://youtu.be/B-BCBCBCd0w (implementation)
+
 ## Understanding the Spring Petclinic application with a few diagrams
 <a href="https://speakerdeck.com/michaelisvy/spring-petclinic-sample-application">See the presentation here</a>
 
