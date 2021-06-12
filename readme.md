@@ -1,6 +1,6 @@
 # Spring PetClinic Sample Application [![Build Status](https://travis-ci.org/spring-projects/spring-petclinic.png?branch=main)](https://travis-ci.org/spring-projects/spring-petclinic/)
 
-##BDD, Acceptance tests with Cucumber
+## BDD, Acceptance tests with Cucumber
 To run test scenarios implemented with Cucumber
 ```
 mvn -Dtest=CucumberTests test
